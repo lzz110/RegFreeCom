@@ -1,0 +1,14 @@
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\bin\Debug\ManagedCom.dll
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\bin\Debug\ManagedCom.pdb
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\obj\Debug\ManagedCom.csproj.CoreCompileInputs.cache
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\obj\Debug\ManagedCom.dll
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\obj\Debug\ManagedCom.pdb
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\Debug\ManagedCom.dll
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\Debug\ManagedCom.pdb
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\obj\Debug\ManagedCom.csproj.AssemblyReference.cache
+F:\Temp\NoneRegCom\Debug\ManagedCom.dll
+F:\Temp\NoneRegCom\Debug\ManagedCom.pdb
+F:\Temp\NoneRegCom\ManagedCom\obj\Debug\ManagedCom.csproj.AssemblyReference.cache
+F:\Temp\NoneRegCom\ManagedCom\obj\Debug\ManagedCom.csproj.CoreCompileInputs.cache
+F:\Temp\NoneRegCom\ManagedCom\obj\Debug\ManagedCom.dll
+F:\Temp\NoneRegCom\ManagedCom\obj\Debug\ManagedCom.pdb

@@ -1,0 +1,5 @@
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\Release\ManagedCom.dll
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\Release\ManagedCom.pdb
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\obj\Release\ManagedCom.csproj.CoreCompileInputs.cache
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\obj\Release\ManagedCom.dll
+C:\svn_working\corss_version\MiscellTools\NoneRegCom\ManagedCom\obj\Release\ManagedCom.pdb

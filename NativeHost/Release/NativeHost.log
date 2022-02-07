@@ -1,0 +1,6 @@
+﻿  NativeHost.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 324 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  NativeHost.vcxproj -> C:\svn_working\corss_version\MiscellTools\NoneRegCom\Release\NativeHost.exe

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+	<assemblyIdentity version="1.0.0.0" name="NativeHost"/>
+	
+	<dependency>
+		<dependentAssembly>
+			<assemblyIdentity
+						  name="TestCom"
+					  version="1.0.0.0"
+			/>
+		</dependentAssembly>
+		</dependency>
+		<dependency>
+		<dependentAssembly>
+			<assemblyIdentity
+						  name="ManagedCom"
+					  version="1.0.0.0"
+			/>
+		</dependentAssembly>
+
+		
+	</dependency>
+</assembly>

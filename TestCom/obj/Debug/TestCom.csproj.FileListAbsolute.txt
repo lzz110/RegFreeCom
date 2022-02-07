@@ -1,0 +1,8 @@
+F:\Temp\NoneRegCom\TestCom\bin\Debug\TestCom.dll
+F:\Temp\NoneRegCom\TestCom\bin\Debug\TestCom.pdb
+F:\Temp\NoneRegCom\TestCom\obj\Debug\TestCom.csproj.CoreCompileInputs.cache
+F:\Temp\NoneRegCom\TestCom\obj\Debug\TestCom.dll
+F:\Temp\NoneRegCom\TestCom\obj\Debug\TestCom.pdb
+F:\Temp\NoneRegCom\Debug\TestCom.dll
+F:\Temp\NoneRegCom\Debug\TestCom.pdb
+F:\Temp\NoneRegCom\TestCom\obj\Debug\TestCom.csproj.AssemblyReference.cache
